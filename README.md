@@ -15,8 +15,8 @@ Built using Unity, this game features interactive environments and puzzle mechan
 - Audio System: Uses Unity's audio components to create a dynamic sound experience.
 
 ## Game Link
-Here is the link to try out the Fire Buster game: https://github.com/DDS910/Project-Game2 .
-Or you can also download in itch.io : 
+Here is the link to try out the Fire Buster game: https://github.com/DDS910/Project-Game2
+or you can also download in itch.io : 
 
 ## Contact
 - Email : sutantodenis@gmail.com
