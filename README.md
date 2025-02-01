@@ -3,11 +3,11 @@ This project is a 2D puzzle-adventure game following the journey of the Traveler
 Built using Unity, this game features interactive environments and puzzle mechanics, challenging players to navigate labyrinths, collect key items to unlock doors, and solve quizzes to gather runes and progress through the world.
 
 ## Project Structure
-- **Assets/**: Contains 2D art assets, textures, animations, audio, and other visual elements.
-- **Scripts/**: Contains the main C# scripts that control game mechanics, such as player controls, collectible items, etc.
-- **Scenes/**: Contains scene files that structure the game's levels and environments.
-- **Prefabs/**: Contains reusable objects such as traps, colletible items, and other interactive elements.
-- **UI/**: Contains user interface elements such as menus, quiz pop-up, pop-up information, game over, etc.
+- *Assets*: Contains 2D art assets, textures, animations, audio, and other visual elements.
+- *Scripts*: Contains the main C# scripts that control game mechanics, such as player controls, collectible items, etc.
+- *Scenes*: Contains scene files that structure the game's levels and environments.
+- *Prefabs*: Contains reusable objects such as traps, colletible items, and other interactive elements.
+- *UI*: Contains user interface elements such as menus, quiz pop-up, pop-up information, game over, etc.
 
 ## Technologies Used
 - Engine : Unity 2022.3.47f1
