@@ -16,7 +16,7 @@ Built using Unity, this game features interactive environments and puzzle mechan
 
 ## Game Link
 Here is the link to try out the Fire Buster game: https://github.com/DDS910/Project-Game2
-or you can also download in itch.io : 
+or you can also download in itch.io : https://dds80.itch.io/ancient-relic-the-lost-world
 
 ## Contact
 - Email : sutantodenis@gmail.com
